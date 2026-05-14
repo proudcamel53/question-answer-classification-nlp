@@ -27,7 +27,7 @@ The project uses the following datasets:
 
 The notebook includes different NLP classification approaches, such as:
 
-- TF-IDF based machine learning models
+- TF-IDF based machine learning models such as naive bayes, logistic regression and random forest
 - Simple RNN
 - Bidirectional RNN
 - LSTM
